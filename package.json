@@ -1,0 +1,25 @@
+{
+  "name": "ryosukesuzuki",
+  "version": "1.0.0",
+  "description": "my profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyosukeCla/ryosukesuzuki.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/RyosukeCla/ryosukesuzuki/issues"
+  },
+  "homepage": "https://github.com/RyosukeCla/ryosukesuzuki#readme",
+  "dependencies": {
+    "ascii-art": "1.4.3",
+    "asciify-image": "0.1.3",
+    "chalk": "2.4.1",
+    "minimist": "1.2.0"
+  }
+}
