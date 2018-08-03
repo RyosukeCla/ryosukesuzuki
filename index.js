@@ -1,6 +1,5 @@
 const minimist = require('minimist')
 const chalk = require('chalk')
-const ascii = require('ascii-art')
 const path = require('path')
 const argv = minimist(process.argv.splice(2))
 
