@@ -1,6 +1,6 @@
 {
   "name": "ryosukesuzuki",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "$ npx ryosukesuzuki",
   "main": "index.js",
   "scripts": {
