@@ -20,7 +20,7 @@ const cards = [
   {
     type: TYPE.HERO,
     name: `Ryosuke Suzuki`,
-    greeting: `Hey, I'm`
+    greeting: `Hello, I'm`
   },
   { type: TYPE.BLANK },
   { type: TYPE.BLANK },
@@ -28,8 +28,9 @@ const cards = [
     type: TYPE.ABOUT,
     title: 'About me',
     items: [
-      'software developer / student',
-      'node / typescript / docker'
+      'Software Engineer',
+      'At Plaid, inc.',
+      'Born in 1996.09',
     ]
   },
   { type: TYPE.BLANK },
